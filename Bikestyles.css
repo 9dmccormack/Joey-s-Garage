@@ -1,6 +1,14 @@
 body{
     background-color: brown;
 }
+.ShopMoney{
+  heigth: 200px;
+  width: 200px; 
+}
+#banner{
+  border: 5px solid red;
+  width: 100%;
+}
 .Homeboxes{
   background-color: #cccccc;
   height: 300px;
@@ -22,7 +30,6 @@ a{
 }
 ul {
   list-style-type: none;
-  display: inline;
   padding: 0;
   width: 100%;
   background-color: #f1f1f1;
@@ -49,7 +56,6 @@ input[type=text] {
   border: 2px solid #ccc;
   border-radius: 4px;
   font-size: 16px;
-  background-color: white;
   background-image: url('searchicon.png');
   background-position: 10px 10px;
   background-repeat: no-repeat;
